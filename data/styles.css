@@ -78,12 +78,27 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
 .tree_node {
   text-align:left;
 }
 .table_cell {
 }
 .menu_item {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
 }
 .flow_shape {
 }
